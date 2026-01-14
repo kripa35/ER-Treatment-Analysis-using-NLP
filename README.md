@@ -4,6 +4,9 @@ ER Treatment Analysis: Medication &amp; Chief Complaint Study
 
 This repository contains analysis of Emergency Room (ER) treatment patterns, chief complaints, and their association with patient outcomes using Python, NLP, and statistical methods.
 
+![](https://github.com/kripa35/ER-Treatment-Analysis-using-NLP/blob/main/NLP%20process.png)
+
+
 ## **Project Objectives**
 
 1. **Drug Co-Occurrence & Prescription Analysis**  
