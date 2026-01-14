@@ -30,6 +30,27 @@ This repository contains analysis of Emergency Room (ER) treatment patterns, chi
 
 ---
 
+## Key Features & Outputs
+
+- **Medication Insights**
+  - Top prescribed medications
+  - Medication co-occurrence networks
+  - Clustered patient treatment profiles
+
+- **Chief Complaint Analysis**
+  - Top complaints and their frequency
+  - Word clouds for visual exploration
+  - LDA topic modeling for symptom patterns
+
+- **Outcome Association**
+  - Mortality distribution across complaints and medications
+  - Statistical testing (Chi-squared & Fisher’s exact)
+  - Odds ratios for high-risk complaints
+
+
+---
+
+
 ## **How to Run**
 
 1. Clone the repo:  
@@ -44,3 +65,9 @@ pip install -r requirements.txt
 
 ---
 
+## **License**
+
+MIT License – free to use and adapt for research purposes.
+
+
+> Data is available upon request. 
